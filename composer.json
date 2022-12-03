@@ -1,0 +1,21 @@
+{
+    "name": "gabrielpaim14/itworks",
+    "description": "Mini Framework PHP",
+    "type": "project",
+    "require": {
+        "twig/twig": "3.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gabrielpaim14\\Itworks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GabrielPaim14",
+            "email": "gabrielpaim09botafogo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
